@@ -1,4 +1,9 @@
 .odd {
-    background-color: #974d93;
+    background-color: #e7a4e4;
     font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#num-two {
+    color: #00f;
+    font-size: 36px;
 }

@@ -11,3 +11,9 @@
 .large-text {
     font-size: 24px;
 }
+
+#num-four {
+    background-color: #080;
+    font-size: 24px;
+    font-weight: bold;
+}

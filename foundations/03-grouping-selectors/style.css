@@ -1,3 +1,9 @@
+
+.dark, .light {
+    font-size: 24px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
 .dark {
     background-color: #000;
     color: #fff;
@@ -5,9 +11,4 @@
 
 .light {
     background-color: #ff0;
-}
-
-.dark, .light {
-    font-size: 24px;
-    font-family: Helvetica, 'Times New Roman', sans-serif;
 }
